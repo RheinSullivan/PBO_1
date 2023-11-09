@@ -1,4 +1,4 @@
-nama = "Dandy"
+nama = "Rifki"
 sks = "3"
 nilai = 75.5
 lulus = False
