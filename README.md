@@ -1,2 +1,5 @@
 # PBO_1
-Pemrograman Berorientasi Object 1, Semester 3 2023
+Repository : Pemrograman Berorientasi Object 1 (PBO 1)
+Name : Moh. Rifki Ramadhan
+Class : TI22B
+Semester : 3 (2023)
